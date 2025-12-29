@@ -2,7 +2,7 @@
 
 GadgetHub is a full-stack Java-based e-commerce web application designed for browsing, purchasing, and managing electronic gadgets through a secure, scalable, and user-friendly platform. The project demonstrates end-to-end software development, covering frontend UI, backend business logic, database design, and deployment, following real-world industry practices.
 
-🛍️ Key Features
+🛍️ Key Features : 
 🔐 User Authentication & Authorization (Login / Registration)
 📦 Dynamic Product Listing with pricing & details
 🛒 Shopping Cart Management (Add / Update / Remove items)
@@ -17,7 +17,7 @@ GadgetHub is a full-stack Java-based e-commerce web application designed for bro
 🔒 Secure Backend Validation
 📈 Scalable Relational Database Design
 
-🛠️ Tech Stack
+🛠️ Tech Stack :
 
 Frontend 🌐
 HTML5, 
@@ -25,38 +25,38 @@ CSS3
 JavaScript
 Bootstrap (Responsive UI)
 
-Backend ⚙️
+Backend ⚙️ :
 
 Core Java
 Java Servlets
 JSP (JavaServer Pages)
 JDBC
 
-Database 🗄️
+Database 🗄️ :
 
 MySQL
 Optimized schema for users, products, carts & orders
 
-Server & Deployment ☁️
+Server & Deployment ☁️ :
 
 Apache Tomcat
 WAR file packaging
 Ready for cloud deployment (AWS EC2 / Google Cloud)
 
-Tools & Platforms 🧰
+Tools & Platforms 🧰 : 
 
 VS Code / Eclipse / NetBeans
 Git & GitHub (Version Control)
 Postman (API testing)
 
-🎯 Learning Outcomes
+🎯 Learning Outcomes :
 
 ✔️ Full-stack Java web development from scratch
 ✔️ Real-world e-commerce workflow implementation
 ✔️ Backend optimization & database connectivity
 ✔️ Deployment-ready enterprise application structure
 
-🔮 Future Enhancements
+🔮 Future Enhancements: 
 
 💳 Payment Gateway Integration
 🧑‍💼 Admin Dashboard for Product & Order Management
